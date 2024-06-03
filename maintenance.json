@@ -1,0 +1,23 @@
+{
+	"Root": {
+		"IsOnline": true,
+		"MaintenanceRedirectURI": ""
+	},
+	"Providers": [
+		{
+			"ProviderHost": "dev.maskagame.com",
+			"IsOnline": true,
+			"MaintenanceRedirectURI": ""
+		},
+		{
+			"ProviderHost": "lovecraftgame.com",
+			"IsOnline": true,
+			"MaintenanceRedirectURI": ""
+		},
+		{
+			"ProviderHost": "en.lovecraftgame.com",
+			"IsOnline": true,
+			"MaintenanceRedirectURI": ""
+		}
+	]
+}
