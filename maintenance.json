@@ -1,7 +1,7 @@
 {
 	"Root": {
 		"IsOnline": true,
-		"MaintenanceRedirectURI": "https://xxcmp1977.github.io/MaskaGH/ServerMaintenance.html"
+		"MaintenanceRedirectURI": "https://xxcmp1977.github.io/MaskaGH/ServerMaintenance.html?time=2024-06-06T00%3A00%3A00.000Z"
 	},
 	"Providers": [
 		{
@@ -12,7 +12,7 @@
 		{
 			"ProviderHost": "lovecraftgame.com",
 			"IsOnline": false,
-			"MaintenanceRedirectURI": "https://xxcmp1977.github.io/MaskaGH/ServerMaintenance.html?time=2024-06-06T00%3A00%3A00.000Z"
+			"MaintenanceRedirectURI": "https://xxcmp1977.github.io/MaskaGH/ServerMaintenance.html"
 		},
 		{
 			"ProviderHost": "en.lovecraftgame.com",
