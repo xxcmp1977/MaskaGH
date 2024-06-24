@@ -16,7 +16,7 @@
 		},
 		{
 			"ProviderHost": "en.lovecraftgame.com",
-			"IsOnline": false,
+			"IsOnline": true,
 			"MaintenanceRedirectURI": "https://xxcmp1977.github.io/MaskaGH/ServerMaintenance.html"
 		}
 	]
