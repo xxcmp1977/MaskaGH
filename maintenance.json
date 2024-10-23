@@ -1,6 +1,6 @@
 {
 	"Root": {
-		"IsOnline": false,
+		"IsOnline": true,
 		"MaintenanceRedirectURI": "https://xxcmp1977.github.io/MaskaGH/ServerMaintenance.html"
 	},
 	"Providers": [
